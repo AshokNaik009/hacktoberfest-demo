@@ -28,3 +28,4 @@ fork the repo and add your name!
 - Qais Patankar
 - Sky Willis
 - Alex Wasey
+- Ashok Naik
